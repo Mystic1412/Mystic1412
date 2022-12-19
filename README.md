@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mystic1412
-- 👀 I’m interested in game design
+- 🎮 I’m interested in game design
 - 🌱 I’m currently learning C# an Blender
 - 💞️ I’m looking to collaborate on creating games
 - 📫 How to reach me through discord: Mystic#7858
