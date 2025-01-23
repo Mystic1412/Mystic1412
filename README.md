@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Mystic1412
 - 🎮 I’m interested in game design
-- 🌱 I’m currently learning C++ and Blender
-- 💞️ I’m looking to collaborate on creating games
-- 📫 How to reach me through discord: MysticKliph
+
 
 <!---
 Mystic1412/Mystic1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
